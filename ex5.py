@@ -1,0 +1,1 @@
+print("Hi from ex5.py")
