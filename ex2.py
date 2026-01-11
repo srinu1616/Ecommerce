@@ -1,5 +1,6 @@
 print("Hi srinivas from ex2.py")
 print("Hi Balu")
+print("Hi NTR")
 
 
 
